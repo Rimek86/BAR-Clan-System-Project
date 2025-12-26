@@ -10,6 +10,10 @@ This README.md serves as the entry point and main navigation for this project. T
 2. [Requirement Specification](Requirement-Specification.md)
 3. [Architecture Specification](Architecture-Specifictation.md)
 
+> [!IMPORTANT]
+> Since there are different channels in Discord for client, server, and protocol, and this project involves changes to all three areas, it would be very helpful if you could post your feedback directly [HERE](https://github.com/Rimek86/BAR-Clan-System-Project/discussions/1) so that I can incorporate it into my concept. Thank you in advance.
+
+
 ## Scope of this Project
 
 ### Overall Introduction
