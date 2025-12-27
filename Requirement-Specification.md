@@ -56,7 +56,7 @@ This document collects all requirements according to this project. Sources are t
   - [ ] RQ-40.2: The clan-tag shall be indepentant to the user-name. (If the user-name changes it has no impact.)
 - [ ] RQ-41: A user shall only be allowed to join one clan. (Multiple clan-membership must not be allowed.)
 - [ ] RQ-42: The clan-system shall provide multiple invites for users (MaybI think it has to be handeled by user-profil not directly be clan-system!)
-- [ ] RQ-43:
+- [ ] RQ-43: A clan shall have an own chat channel for internal communication.
 
 ## Clan messaging system (TBD / Rough ideas for future!)
 
