@@ -48,6 +48,8 @@ This document collects all requirements according to this project. Sources are t
 - [ ] RQ-31: The Clan-System shall support a trial feature which allows the leaders and co-leaders to mark a member as trial
   - [ ] RQ-31.1: The Clan-System shall provide an optional feature to set a timespan for a trial-phase which automatically ends after.
 - [ ] RQ-32: The Clan-System shall log the entry-date of each member.
+- [ ] RQ-33: The Clan-System shall provide a setting to customize the member roles.
+  - [ ] RQ-33.1: The labels of the member roles shall be customizable.
 
 ## Overall topics
 
