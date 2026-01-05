@@ -31,6 +31,7 @@ This document collects all requirements according to this project. Sources are t
   - [ ] RQ-20.5.2: The member list shall show the user online state with the same icons/colors as in the "friend list" (grey/green/zzz).
   - [ ] RQ-20.5.3: The member list shall show the user role.
     - [ ] RQ-20.5.3.1: The roles shall be represented by icons with a "title-text".
+- [ ] RQ-20.6: The clan profile shall provide a change-history which shows updates of the profile and role-changes.
 
 ## Clan management
 
@@ -69,3 +70,7 @@ This document collects all requirements according to this project. Sources are t
 ## Discord connection (TBD / Rough ideas for future!)
 
 - [ ] RQ-60: TBD
+
+## Further ideas for future
+
+- Fully customizable clan roles....
